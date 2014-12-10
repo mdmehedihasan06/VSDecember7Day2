@@ -1,0 +1,6 @@
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob1App\Day2Prob1App\bin\Debug\Day2Prob1App.exe.config
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob1App\Day2Prob1App\bin\Debug\Day2Prob1App.exe
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob1App\Day2Prob1App\bin\Debug\Day2Prob1App.pdb
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob1App\Day2Prob1App\obj\Debug\Day2Prob1App.csprojResolveAssemblyReference.cache
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob1App\Day2Prob1App\obj\Debug\Day2Prob1App.exe
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob1App\Day2Prob1App\obj\Debug\Day2Prob1App.pdb

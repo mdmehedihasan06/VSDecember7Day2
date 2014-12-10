@@ -1,0 +1,5 @@
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob2App\Day2Prob2App\bin\Debug\Day2Prob2App.exe.config
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob2App\Day2Prob2App\bin\Debug\Day2Prob2App.exe
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob2App\Day2Prob2App\bin\Debug\Day2Prob2App.pdb
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob2App\Day2Prob2App\obj\Debug\Day2Prob2App.exe
+c:\users\bcc\documents\visual studio 2013\Projects\Day2Prob2App\Day2Prob2App\obj\Debug\Day2Prob2App.pdb
